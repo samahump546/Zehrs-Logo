@@ -19,7 +19,7 @@ namespace Something
 
         private void Form1_Shown(object sender, EventArgs e)
         {
-            this.Text = "Graphics Examples";
+            this.Text = "Zehrs Market";
 
             Graphics g = this.CreateGraphics();
             Pen orangePen = new Pen(Color.Orange, 5);
